@@ -1,0 +1,37 @@
+.classcv{
+
+width: 100%;
+    height: auto;
+    margin-left: 5%;
+
+}
+
+.empty{
+
+  width: 100%;
+    height: 100px;
+
+}
+
+.tocentre {
+
+    padding-left: 100px;
+
+}
+
+.classb{
+
+border-style: outset;
+    border-width: 3px;
+    border-color: #888888;
+    width: 18%;
+    height: auto;
+    padding-right: 20px;
+    margin: auto;
+
+}
+
+body{
+
+
+}
